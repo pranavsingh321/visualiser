@@ -7,6 +7,15 @@ name = "pypi"
 
 [packages]
 flask = "*"
+flask-login = "*"
+cryptography = "*"
+celery = "*"
+psutil = "*"
+flask-sqlalchemy = "*"
+requests = "*"
+dicttoxml = "*"
+pyjwt = "*"
+redis = "*"
 
 [requires]
 python_version = "3.6"
