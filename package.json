@@ -30,6 +30,7 @@
   "dependencies": {
     "axios": "*",
     "css-loader": "^0.23.1",
+    "deck.gl": "^6.2.3",
     "draft-js": "*",
     "react": "*",
     "react-dom": "*",
